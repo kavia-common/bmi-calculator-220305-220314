@@ -106,6 +106,12 @@ This project is a single React container:
 
 For a deeper architectural breakdown, see `docs/architecture.md`.
 
+## Product requirements
+
+The product requirements and the intended MVP behavior are captured in the PRD:
+
+- [Product Requirements Document (PRD)](PRD.md)
+
 ## Environment variables and configuration
 
 This project expects a set of `REACT_APP_*` environment variables to be available (commonly through a `.env` file in a Create React App setup). They may not all be used by the current implementation, but they are part of the container environment contract.
