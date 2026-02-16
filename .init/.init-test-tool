@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/bmi-calculator-220305-220314/frontend_bmi_calculator"
+}
